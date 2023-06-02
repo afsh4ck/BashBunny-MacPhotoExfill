@@ -6,7 +6,7 @@
 * Tested on:  Ventura 13.3.1
 * Category:   Exfiltration
 
-DESCRIPTION
+* DESCRIPTION
 
 Exfilter all the images from the principal folders on unlocked MacOS targets.
 Stashes them in /loot/MacPhotoExfill/$hostname grouped in subfolders:
@@ -18,7 +18,7 @@ Stashes them in /loot/MacPhotoExfill/$hostname grouped in subfolders:
 | Pictures           | All the images in /root/Pictures folder      |
 | Downloads          | All the images in /root/Downloads folder     |
 
-IMAGE FORMATS
+* IMAGE FORMATS
 
 | Format             | 
 | ------------------ |
@@ -26,7 +26,7 @@ IMAGE FORMATS
 | .jpeg              | 
 | .png               |
 
-LED STATUS
+* LED STATUS
 
 | LED                | Status                                       |
 | ------------------ | -------------------------------------------- |
