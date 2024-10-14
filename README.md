@@ -34,3 +34,9 @@ Stashes them in /loot/MacPhotoExfill/$hostname grouped in subfolders:
 | Yellow Blink       | Attack Mode ON                               |
 | Purple Slow        | Cleaning all proofs                          |
 | Green Fixed        | Finish            |
+
+# Support
+
+<a href="https://www.buymeacoffee.com/afsh4ck" rel="nofollow"><img width="250" align="left">
+![buy-me-a-coffe](https://github.com/user-attachments/assets/8c8f9e81-334e-469e-b25e-29888cfc9fcc)
+</a>
